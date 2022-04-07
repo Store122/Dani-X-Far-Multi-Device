@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Create By Aqso.
+   * Contact Me on wa.me/62 877-3886-7738
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,15 +18,15 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62 877-3886-7738','6285714627920','6285714627920']
-global.premium = ['62 877-3886-7738']
+global.owner = ['62 877-3886-7738','6287738867738','6282241895131']
+global.premium = ['62 822-4189-5131']
 global.packname = 'AQSO STORE'
-global.author = 'WhatsApp Bot'
+global.author = 'aqso Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: ' Success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
